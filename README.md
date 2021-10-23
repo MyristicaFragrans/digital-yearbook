@@ -1,3 +1,4 @@
+**I'm not maintaining this and GitHub keeps finding vulnerabilities, so I'm just archiving it. Don't use this code without updating the dependancies, okay?**
 # Yearbook
 
 A quick program I made in 3 days because COVID-19 cancelled yearbook signing.
